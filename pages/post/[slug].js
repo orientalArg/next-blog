@@ -5,7 +5,6 @@ import BlockContent from '@sanity/block-content-to-react'
 import { Header } from '../../components/Header'
 import { Footer } from '../../components/Footer'
 import Link from 'next/link'
-import Image from 'next/image'
 
 export const Post = ({title, body, image}) => {
     const [imageUrl, setImageUrl] = useState('')
@@ -24,7 +23,7 @@ export const Post = ({title, body, image}) => {
             <Header />
             <div className={styles.main}>
                 <h1>{title}</h1>
-                {imageUrl && <Image className={styles.mainImage} src={imageUrl} alt="" />}
+                {imageUrl && <img className={styles.mainImage} src={imageUrl} alt="" />}
 
                 <div className={styles.body}>
                     <BlockContent blocks={body} />
