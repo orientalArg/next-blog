@@ -64,7 +64,7 @@ export const getServerSideProps = async pageContext => {
             props: {
                 body: post.body,
                 title: post.title,
-                
+                image:post.mainImage,
 
             }
         }
