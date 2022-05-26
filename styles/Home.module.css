@@ -1,0 +1,31 @@
+.feed {
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.post h3 {
+  margin-bottom: 10px;
+  font-size: 1.4rem;
+  font-weight: lighter;
+  text-transform: uppercase;
+}
+.post {
+  margin: 5vw 0;
+  width: 600px;
+  height: 260px;
+  cursor: pointer;
+  text-align: center;
+  max-width: calc(100vw - 50px);
+}
+.mainImage {
+  width: 600px;
+  margin: auto;
+  transition: 0.2s;
+  max-width: calc(100vw - 50px);
+  box-shadow: 0px 0px 2px black;
+}
+.post:hover .mainImage {
+  width: 580px;
+  transition: 0.2s;
+}

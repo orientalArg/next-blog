@@ -1,0 +1,23 @@
+.main {
+    padding: 50px;
+    text-align: center;
+    background-image: url(/images/earth.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main h1 {
+    @import url('https://fonts.googleapis.com/css2?family=Waiting+for+the+Sunrise&display=swap');
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.main div {
+    gap: 50px;
+    color: #ddd;
+    width: fit-content;
+    width: -moz-fit-content;
+    margin: auto;
+}

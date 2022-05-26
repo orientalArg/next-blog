@@ -1,0 +1,18 @@
+.main {
+    margin: 50px auto;
+    width: 750px;
+    max-width: calc(100vw - 50px);
+}
+.mainImage {
+    margin: 25px 0;
+    width: 100%; 
+}
+.body p {
+    font-size: 24px;
+    line-height: 45px;
+    letter-spacing: 1.5px;
+}
+.body h2, .body h3 {
+    font-size: 26px;
+    margin: 20px 0;
+}

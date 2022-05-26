@@ -1,0 +1,21 @@
+.footer {
+    display: flex;
+    gap: 20px;
+    padding: 25px 8%;
+    flex-direction: column;
+    background-color:#E1E1E1;
+}
+
+.footer div {
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer p {
+    text-align: center;
+}
+
+.icon {
+    cursor: pointer;
+}

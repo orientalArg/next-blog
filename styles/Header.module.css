@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    max-width: 100%;
+    /* color: #454545; */
+    font-weight: 500;
+    text-transform: uppercase;
+    justify-content: center;
+    background-color: #E1E1E1;
+    box-shadow: gradient(rgba(0,0,0,1) rgba(0,0,0,1)) -1px 12px;
+}
+.main a {
+    margin: 25px;
+    cursor: pointer;
+}
+.main div:hover {
+    color: #000;
+}
