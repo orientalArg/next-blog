@@ -1,3 +1,9 @@
+# New Post
+![Post](/Captura%20web_26-5-2022_18349_next-blog-eta-lovat.vercel.app.jpeg)
+
+# Admin Panel
+![Admin panel](/Sanity%20CMS%20Backend%20.jpeg)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -9,11 +15,6 @@ npm run dev
 # or
 yarn dev
 ```
-# New Post
-![Post](/Captura%20web_26-5-2022_18349_next-blog-eta-lovat.vercel.app.jpeg)
-
-# Admin Panel
-![Admin panel](/Sanity%20CMS%20Backend%20.jpeg)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
