@@ -1,6 +1,6 @@
 import {useState, useEffect} from 'react'
 import imageUrlBuilder from '@sanity/image-url'
-import styles from '../../styles/Post.module.css'
+import styles from '../../styles/post.module.css'
 import BlockContent from '@sanity/block-content-to-react'
 import { Header } from '../../components/Header'
 import { Footer } from '../../components/Footer'
