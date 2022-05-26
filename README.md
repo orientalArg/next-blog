@@ -10,10 +10,10 @@ npm run dev
 yarn dev
 ```
 # New Post
-https://github.com/orientalArg/next-blog/blob/main/Captura%20web_26-5-2022_18349_next-blog-eta-lovat.vercel.app.jpeg
+![Post](/Captura%20web_26-5-2022_18349_next-blog-eta-lovat.vercel.app.jpeg)
 
 # Admin Panel
-https://github.com/orientalArg/next-blog/blob/main/Sanity%20CMS%20Backend%20.jpeg
+![Admin panel](/Sanity%20CMS%20Backend%20.jpeg)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
