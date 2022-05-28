@@ -37,7 +37,6 @@ export const Footer = () => {
                     
                 </div>
                 <div Style="gap: 5px;">
-                    <p>Mobile App</p>
                     <Image
                         className={styles.icon}
                         src="/images/ion_logo-windows.svg"
@@ -52,6 +51,7 @@ export const Footer = () => {
                         width={25}
                         height={25}
                     />
+                    <p>Mobile App</p>
                 </div>
             </div>
 

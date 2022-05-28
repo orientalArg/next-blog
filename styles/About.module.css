@@ -1,20 +1,21 @@
 .main {
-    padding: 2em 0;
+    padding: 3em 0;
     text-align: center;
 }
-.main h1 {
-    margin:1em;
+.main h1, .main h2 {
+    margin-bottom: 1.2em;
 }
 .main div {
+    gap: 2em;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 .main p {
-    margin: 1em;
     max-width: 300px;
 }
 .main button {
+    margin-bottom: 5em;
     font-weight: 700;
     padding: 5px 10px;
     text-transform: uppercase;

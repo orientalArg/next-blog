@@ -11,8 +11,14 @@ export default function About () {
         <div className={Style.main}>
             <h1>Our Motivation</h1>
             <div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque veniam reiciendis commodi labore, minima modi eos inventore, assumenda, provident error excepturi rem a! Nam, mollitia.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque veniam reiciendis commodi labore, minima modi eos inventore, assumenda, provident error excepturi rem a! Nam, mollitia.</p>
+                <column>    
+                    <h2>Balance media power.</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque veniam reiciendis commodi labore, minima modi eos inventore, assumenda, provident error excepturi rem a! Nam, mollitia.</p>
+                </column>
+                <column>   
+                    <h2>Keep you informed.</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque veniam reiciendis commodi labore, minima modi eos inventore, assumenda, provident error excepturi rem a! Nam, mollitia.</p>
+                </column>
             </div>
             <br/>
             <button>Learn More &rarr;</button>
